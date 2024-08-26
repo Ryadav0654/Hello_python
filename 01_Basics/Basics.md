@@ -20,3 +20,5 @@
 
 ### Copy, reference count, slice
 - study repr, str and print
+
+- study scopes and clousure
